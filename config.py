@@ -20,7 +20,7 @@ DB_NAME = 'bot_data.db'
 
 # Downloads directory
 DOWNLOADS_DIR = 'downloads'
-COOKIES_PATH = '/content/777/cookies.json'
+COOKIES_PATH = 'cookies.json'
 FFMPEG_LOCATION = '/usr/bin/ffmpeg'  # Replace with your actual FFmpeg path
 # config.py
 AUTH_USERS = [1908235162]  # Replace with your authorized user IDs
